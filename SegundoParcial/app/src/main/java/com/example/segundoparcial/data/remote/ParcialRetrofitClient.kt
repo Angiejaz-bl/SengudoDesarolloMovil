@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit
 
 object ParcialRetrofitClient {
 
-    var BASE_URL = "http://202400137angie.aplicacionesweb2026.com/"
+    var BASE_URL = "http://202400137angie.aplicacionesweb2026.com/api/"
 
     private var apiService: ParcialApiService? = null
 
