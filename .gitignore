@@ -1,0 +1,8 @@
+Backend/
+SegundoParcial/.gradle/
+SegundoParcial/**/build/
+SegundoParcial/local.properties
+SegundoParcial/.idea/
+*.jks
+*.keystore
+.env
